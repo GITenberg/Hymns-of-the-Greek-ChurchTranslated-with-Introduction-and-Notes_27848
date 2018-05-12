@@ -1,0 +1,30 @@
+_repo: Hymns-of-the-Greek-ChurchTranslated-with-Introduction-and-Notes_27848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brownlie, John
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '32958'
+    url: http://www.gutenberg.org/2009/agents/32958
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2009-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Hymns, Greek -- Translations into English'
+- !lcsh 'Orthodox Eastern Church -- Hymns'
+title: 'Hymns of the Greek Church
+
+  Translated with Introduction and Notes'
+url: http://www.gutenberg.org/ebooks/27848
